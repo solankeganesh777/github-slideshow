@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ganesh wants to be data scientist
 Use the left arrow to go back!
